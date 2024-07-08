@@ -1,4 +1,4 @@
-Machine Learning Projects
+Machine Learning Projects I have done as an Intern
 This repository contains a collection of five machine learning projects developed as part of the Machine Learning Internship Program at Prodigy InfoTech. Each project addresses a unique problem and employs different machine learning techniques.
 
 Projects
